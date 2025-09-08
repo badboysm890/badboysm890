@@ -1,4 +1,4 @@
-# Hey, I'm Praveen 👋
+# Hey, I'm BadBoy17G 👋
 
 Building local-first AI tools since 2017. Creator of [ClaraVerse](https://github.com/badboysm890/ClaraVerse).
 
